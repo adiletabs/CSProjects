@@ -1,0 +1,10 @@
+C:\Users\Adlet\Desktop\PP_test\FallingBalls\FallingBalls\bin\Debug\FallingBalls.exe.config
+C:\Users\Adlet\Desktop\PP_test\FallingBalls\FallingBalls\bin\Debug\FallingBalls.exe
+C:\Users\Adlet\Desktop\PP_test\FallingBalls\FallingBalls\bin\Debug\FallingBalls.pdb
+C:\Users\Adlet\Desktop\PP_test\FallingBalls\FallingBalls\obj\Debug\FallingBalls.csprojResolveAssemblyReference.cache
+C:\Users\Adlet\Desktop\PP_test\FallingBalls\FallingBalls\obj\Debug\FallingBalls.FallingBalls.resources
+C:\Users\Adlet\Desktop\PP_test\FallingBalls\FallingBalls\obj\Debug\FallingBalls.Properties.Resources.resources
+C:\Users\Adlet\Desktop\PP_test\FallingBalls\FallingBalls\obj\Debug\FallingBalls.csproj.GenerateResource.Cache
+C:\Users\Adlet\Desktop\PP_test\FallingBalls\FallingBalls\obj\Debug\FallingBalls.csproj.CoreCompileInputs.cache
+C:\Users\Adlet\Desktop\PP_test\FallingBalls\FallingBalls\obj\Debug\FallingBalls.exe
+C:\Users\Adlet\Desktop\PP_test\FallingBalls\FallingBalls\obj\Debug\FallingBalls.pdb
