@@ -108,14 +108,14 @@
             // Open
             // 
             this.Open.Name = "Open";
-            this.Open.Size = new System.Drawing.Size(152, 22);
+            this.Open.Size = new System.Drawing.Size(108, 22);
             this.Open.Text = "Open";
             this.Open.Click += new System.EventHandler(this.OpenFile);
             // 
             // Save
             // 
             this.Save.Name = "Save";
-            this.Save.Size = new System.Drawing.Size(152, 22);
+            this.Save.Size = new System.Drawing.Size(108, 22);
             this.Save.Text = "Save";
             this.Save.Click += new System.EventHandler(this.SaveFile);
             // 
@@ -289,6 +289,7 @@
             this.Controls.Add(this.LocationBar);
             this.Controls.Add(this.PictureBox);
             this.Controls.Add(this.Menu);
+            this.Cursor = System.Windows.Forms.Cursors.Default;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.Menu;
             this.Name = "MyPaint";

@@ -1,0 +1,11 @@
+C:\Users\Adlet\Desktop\PP2\Lab3\MiniFAR\bin\Debug\netcoreapp2.0\MiniFAR.deps.json
+C:\Users\Adlet\Desktop\PP2\Lab3\MiniFAR\bin\Debug\netcoreapp2.0\MiniFAR.runtimeconfig.json
+C:\Users\Adlet\Desktop\PP2\Lab3\MiniFAR\bin\Debug\netcoreapp2.0\MiniFAR.runtimeconfig.dev.json
+C:\Users\Adlet\Desktop\PP2\Lab3\MiniFAR\bin\Debug\netcoreapp2.0\MiniFAR.dll
+C:\Users\Adlet\Desktop\PP2\Lab3\MiniFAR\bin\Debug\netcoreapp2.0\MiniFAR.pdb
+C:\Users\Adlet\Desktop\PP2\Lab3\MiniFAR\obj\Debug\netcoreapp2.0\MiniFAR.csprojResolveAssemblyReference.cache
+C:\Users\Adlet\Desktop\PP2\Lab3\MiniFAR\obj\Debug\netcoreapp2.0\MiniFAR.csproj.CoreCompileInputs.cache
+C:\Users\Adlet\Desktop\PP2\Lab3\MiniFAR\obj\Debug\netcoreapp2.0\MiniFAR.AssemblyInfoInputs.cache
+C:\Users\Adlet\Desktop\PP2\Lab3\MiniFAR\obj\Debug\netcoreapp2.0\MiniFAR.AssemblyInfo.cs
+C:\Users\Adlet\Desktop\PP2\Lab3\MiniFAR\obj\Debug\netcoreapp2.0\MiniFAR.dll
+C:\Users\Adlet\Desktop\PP2\Lab3\MiniFAR\obj\Debug\netcoreapp2.0\MiniFAR.pdb
